@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="paguntalan_calculator"
+        android:label="Paguntalan_Calculator"
         android:roundIcon="@drawable/calcuround"
         android:supportsRtl="true"
         android:theme="@style/Theme.Paguntalan_calculator">
